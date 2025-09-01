@@ -1,2 +1,2 @@
 Check Out Our Website:
-https://algaerithm.onrender.com/
+https://algaerithm-lu4l.vercel.app/
